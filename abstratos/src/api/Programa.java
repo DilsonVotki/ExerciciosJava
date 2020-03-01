@@ -18,7 +18,7 @@ public class Programa {
 
 		List<Figuras> list = new ArrayList<>();
 
-		System.out.print("Entre com a Quantidade de Figuras: ");
+		System.out.print("Entre com a quantidade de figuras: ");
 		int n = sc.nextInt();
 
 		for (int i = 1; i <= n; i++) {
